@@ -114,5 +114,4 @@ The dashboard includes:
 * Automate data refresh.
 
 
----
-If you found this project useful, feel free to ⭐ this repository.
+
